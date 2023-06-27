@@ -9,4 +9,3 @@ let result2 = String(2176782336);
 console.log(result2);
 
 console.log(result2.substring(0, 2));
-
